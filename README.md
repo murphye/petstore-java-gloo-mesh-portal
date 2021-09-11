@@ -1,1 +1,1 @@
-# Petstore in Java with Gloo Mesh and Gloo Portal using Tekton and ArgoCD
+# API-Driven Petstore Microservices using Java, Gloo Mesh, Gloo Portal, Tekton, and ArgoCD
